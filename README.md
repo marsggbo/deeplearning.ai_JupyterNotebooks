@@ -14,7 +14,7 @@
 <hr>
 具体的深度课程笔记传送门:
 
-> [DeepLearning.ai学习笔记（一）神经网络和深度学习--Week3浅层神经网络](http://www.cnblogs.com/marsggbo/p/7453646.html)
+> [机器学习系列笔记](http://www.cnblogs.com/marsggbo/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
 
 
@@ -28,5 +28,6 @@
 ----------
 2018.03.04  更新
 
-哈哈哈，托福只准备了2个月左右一次过了，所以打个广告，又想考托福的可以邮箱( marsggbo@foxmail.com )私戳我buy<b style="color:tomato;">口语、写作</b>资料，真的是神器！当然也欢迎单纯想问一些考试细节的同学
+哈哈哈，托福只准备了2个月左右一次过了，所以打个广告，又想考托福的可以邮箱( marsggbo@foxmail.com )私戳我buy <b style="color:tomato;">口语、写作</b>资料，真的是神器！当然也欢迎单纯想问一些考试细节的同学
 
+![](http://opn1dyhml.bkt.clouddn.com/18-3-4/42079356.jpg)
