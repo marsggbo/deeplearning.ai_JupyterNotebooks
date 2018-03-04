@@ -28,6 +28,6 @@
 ----------
 2018.03.04  更新
 
-哈哈哈，托福一次过了，所以打个广告，又想考托福的可以邮箱( marsggbo@foxmail.com )私戳我buy口语写作资料，真的是神器！当然也欢迎单纯想问一些考试细节的同学
+哈哈哈，托福只准备了2个月左右一次过了，所以打个广告，又想考托福的可以邮箱( marsggbo@foxmail.com )私戳我buy<b style="color:tomato;">口语、写作</b>资料，真的是神器！当然也欢迎单纯想问一些考试细节的同学
 
 ![image.png](https://ask.qcloudimg.com/draft/1215004/c2dha06qez.png)
