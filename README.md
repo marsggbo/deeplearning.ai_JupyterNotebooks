@@ -16,7 +16,11 @@
 
 > [机器学习系列笔记](http://www.cnblogs.com/marsggbo/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
+<hr>
 
+因为github对文件大小有要求，所以很多数据集无法上传，需要的可转至百度网盘下载：
+
+> 链接：https://pan.baidu.com/s/13fqneLonj7u1F8DRvDjsBg 密码：w5f0
 
 <hr>
 
