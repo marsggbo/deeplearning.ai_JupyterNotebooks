@@ -1,12 +1,12 @@
 # deeplearning.ai_JupyterNotebooks
 
-> <b style="color:tomato;font-size:25px;">第五章的代码作业可能不会做了，希望fork的同学们能够pull一下。</b>
+> <b style="color:tomato;font-size:40px;">第五章的代码作业可能不会做了，希望fork的同学们能够pull一下。</b>
 
 该仓库主要存放Coursera上DeepLearning.ai课程的Jupyter Notebook的练习题。
 放在gituhb上希望能和大家一起学习~
 
 
-## 1.课程笔记传送门:
+## 1.DeepLearning课程笔记传送门:
 
 ### **第一章 神经网络与深度学习(Neural Network & Deeplearning)**
 - [DeepLearning.ai学习笔记（一）神经网络和深度学习--Week3浅层神经网络](http://www.cnblogs.com/marsggbo/p/7453646.html)
@@ -33,24 +33,24 @@
 - [DeepLearning.ai学习笔记（五）序列模型 -- week2 自然语言处理与词嵌入](http://www.cnblogs.com/marsggbo/p/8650103.html)
 
 
-后续持续更新中。。
 
-> [机器学习系列笔记](http://www.cnblogs.com/marsggbo/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
+## 2.吴恩达机器学习
+[机器学习系列笔记](http://www.cnblogs.com/marsggbo/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
 
-## 2.博客地址
+## 3.博客地址
 
 > - [博客园marsggbo](http://www.cnblogs.com/marsggbo)
 >
 > - [CSDN博客](http://blog.csdn.net/marsggbo)
 
-## 3.数据下载
+## 4.数据下载
 
 因为github对文件大小有要求，所以很多数据集无法上传，需要的可转至百度网盘下载：
 
 > 链接：https://pan.baidu.com/s/13fqneLonj7u1F8DRvDjsBg 密码：w5f0
 
-## 4.其他
+## 5.其他
 
 如果大家有什么比较好的学习资料或者视频也可以在**issue**贴出来，我会选出一些合适的整合在这里，谢谢！
 
@@ -60,6 +60,7 @@
 ----------
 2018.03.04  更新
 
+## 6.无耻的广告
 哈哈哈，托福只准备了2个月左右一次过了，所以打个广告，又想考托福的可以邮箱( marsggbo@foxmail.com )私戳我购买 <b style="color:tomato;">口语、写作</b>资料，真的是神器！当然也欢迎单纯想问一些考试细节的同学
 
 ![](http://opn1dyhml.bkt.clouddn.com/18-3-4/42079356.jpg)
