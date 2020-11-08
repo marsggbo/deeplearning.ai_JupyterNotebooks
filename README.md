@@ -1,5 +1,9 @@
 # deeplearning.ai_JupyterNotebooks
 
+更多干货欢迎关注
+- 微信公众号： 【AutoML机器学习】
+- 知乎专栏：【AutoML】https://www.zhihu.com/column/automl
+
 > <b style="color:tomato;font-size:40px;">第五章的代码作业可能不会做了，希望fork的同学们能够pull一下。</b>
 
 该仓库主要存放Coursera上DeepLearning.ai课程的Jupyter Notebook的练习题。
